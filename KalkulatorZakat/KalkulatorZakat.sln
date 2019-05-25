@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalkulatorZakat", "KalkulatorZakat\KalkulatorZakat.csproj", "{31FEF219-46B7-4876-B2AE-4549B5EE987F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31FEF219-46B7-4876-B2AE-4549B5EE987F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FEF219-46B7-4876-B2AE-4549B5EE987F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FEF219-46B7-4876-B2AE-4549B5EE987F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FEF219-46B7-4876-B2AE-4549B5EE987F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F54E157-3E19-4962-88AD-B7FECFBEE3F8}
+	EndGlobalSection
+EndGlobal

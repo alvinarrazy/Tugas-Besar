@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\KalkulatorZakat\KalkulatorZakat\bin\Debug\KalkulatorZakat.exe.config
+C:\Users\LENOVO\source\repos\KalkulatorZakat\KalkulatorZakat\bin\Debug\KalkulatorZakat.exe
+C:\Users\LENOVO\source\repos\KalkulatorZakat\KalkulatorZakat\bin\Debug\KalkulatorZakat.pdb
+C:\Users\LENOVO\source\repos\KalkulatorZakat\KalkulatorZakat\obj\Debug\KalkulatorZakat.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\KalkulatorZakat\KalkulatorZakat\obj\Debug\KalkulatorZakat.Form1.resources
+C:\Users\LENOVO\source\repos\KalkulatorZakat\KalkulatorZakat\obj\Debug\KalkulatorZakat.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\KalkulatorZakat\KalkulatorZakat\obj\Debug\KalkulatorZakat.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\KalkulatorZakat\KalkulatorZakat\obj\Debug\KalkulatorZakat.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\KalkulatorZakat\KalkulatorZakat\obj\Debug\KalkulatorZakat.exe
+C:\Users\LENOVO\source\repos\KalkulatorZakat\KalkulatorZakat\obj\Debug\KalkulatorZakat.pdb
